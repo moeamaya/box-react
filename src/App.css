@@ -1,5 +1,10 @@
 .App {
+  display: flex;
+  position: absolute;
+  top: 0;
   text-align: center;
+  height: 100%;
+  width: 100%;
 }
 
 .App-logo {
@@ -14,18 +19,39 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
+  width: 30vw;
+  height: 100%;
+  background-color: #001323;
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.App-header div {
+  width: 100%;
+}
+.App-header label {
+  display: block;
+  margin-top: 1em;
+}
+.App-header input {
+  height: 80px;
+  width: 80%;
+  font-size: 2em;
+}
 
-.App-link {
-  color: #61dafb;
+.App-main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70vw;
+  height: 100%;
+  background: #41ead4;
+}
+.box {
+  background: white;
+  width: 800px;
+  height: 600px;
 }
 
 @keyframes App-logo-spin {
