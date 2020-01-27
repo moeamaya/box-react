@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/box-react/static/css/main.8d753fde.chunk.css",
+    "main.css": "/box-react/static/css/main.3d103fa8.chunk.css",
     "main.js": "/box-react/static/js/main.030df8ed.chunk.js",
     "main.js.map": "/box-react/static/js/main.030df8ed.chunk.js.map",
     "runtime-main.js": "/box-react/static/js/runtime-main.72f1ca52.js",
@@ -8,15 +8,15 @@
     "static/js/2.c936064f.chunk.js": "/box-react/static/js/2.c936064f.chunk.js",
     "static/js/2.c936064f.chunk.js.map": "/box-react/static/js/2.c936064f.chunk.js.map",
     "index.html": "/box-react/index.html",
-    "precache-manifest.ff6d75f165ae93b3c02741b56cf2ab5e.js": "/box-react/precache-manifest.ff6d75f165ae93b3c02741b56cf2ab5e.js",
+    "precache-manifest.822cd5157f72a51fa17e1b13ba6ee7e3.js": "/box-react/precache-manifest.822cd5157f72a51fa17e1b13ba6ee7e3.js",
     "service-worker.js": "/box-react/service-worker.js",
-    "static/css/main.8d753fde.chunk.css.map": "/box-react/static/css/main.8d753fde.chunk.css.map",
+    "static/css/main.3d103fa8.chunk.css.map": "/box-react/static/css/main.3d103fa8.chunk.css.map",
     "static/js/2.c936064f.chunk.js.LICENSE": "/box-react/static/js/2.c936064f.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.72f1ca52.js",
     "static/js/2.c936064f.chunk.js",
-    "static/css/main.8d753fde.chunk.css",
+    "static/css/main.3d103fa8.chunk.css",
     "static/js/main.030df8ed.chunk.js"
   ]
 }

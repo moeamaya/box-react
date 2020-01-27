@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87aade1a931590259bd31a363106c93a",
+    "revision": "96bdd16e6d65069a187eb9b8fb48009c",
     "url": "/box-react/index.html"
   },
   {
-    "revision": "9077bb31e6c13dd69059",
-    "url": "/box-react/static/css/main.8d753fde.chunk.css"
+    "revision": "4943ecd839f043a56e29",
+    "url": "/box-react/static/css/main.3d103fa8.chunk.css"
   },
   {
     "revision": "86f08128019ff683a2a3",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/box-react/static/js/2.c936064f.chunk.js.LICENSE"
   },
   {
-    "revision": "9077bb31e6c13dd69059",
+    "revision": "4943ecd839f043a56e29",
     "url": "/box-react/static/js/main.030df8ed.chunk.js"
   },
   {
